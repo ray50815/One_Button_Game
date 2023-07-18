@@ -1,0 +1,1 @@
+{"name":"ray​","count":38,"distance":2301.09}
